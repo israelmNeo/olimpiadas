@@ -1,5 +1,5 @@
 
-##  Busca de Atletas Olímpicos: Seu Portal para o Esporte! 
+##  Busca de Atletas Olímpicos: Seu Portal para o Esporte! -imersão Dev com Google Gemini
 
 **O que é essa aplicação?**
 
